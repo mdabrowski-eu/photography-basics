@@ -10,15 +10,71 @@ Zrozumienie systemu wartości przysłony (f-stopów) oraz ich związku z czasem 
 
 Wartość przysłony, powszechnie określana jako liczba f lub f-stop, jest kluczowym parametrem opisującym, jak dużo światła przepuszcza obiektyw.
 
-* **Stosunek ogniskowej obiektywu (f) do średnicy czynnej otworu przysłony (D):** Liczba f (oznaczana jako N) jest definiowana jako stosunek ogniskowej obiektywu (f) do efektywnej średnicy otworu przysłony (D). Matematycznie wyraża się to wzorem: N=f/D Z tego wzoru wynika, że średnica otworu przysłony D=f/N.  
-* **Dlaczego mniejsza liczba f oznacza większy otwór i więcej światła:** Ponieważ liczba f (N) znajduje się w mianowniku wyrażenia na średnicę (lub średnica D jest w mianowniku wzoru N \= f/D), mniejsza wartość liczbowa N (np. f/1.4, f/2) oznacza większą efektywną średnicę otworu przysłony D. Większa średnica otworu to z kolei większa jego powierzchnia, przez którą może wpadać światło do wnętrza aparatu. Można to przyrównać do ułamków: 1/2 jest wartością większą niż 1/16, stąd przysłona f/2 wpuszcza więcej światła niż f/16.
+**Stosunek ogniskowej obiektywu (f) do średnicy czynnej otworu przysłony (D):** Liczba f (oznaczana jako N) jest definiowana jako stosunek ogniskowej obiektywu (f) do efektywnej średnicy otworu przysłony (D). Matematycznie wyraża się to wzorem: N=f/D Z tego wzoru wynika, że średnica otworu przysłony D=f/N.  
+
+**Dlaczego mniejsza liczba f oznacza większy otwór i więcej światła:** Ponieważ liczba f (N) znajduje się w mianowniku wyrażenia na średnicę (lub średnica D jest w mianowniku wzoru N \= f/D), mniejsza wartość liczbowa N (np. f/1.4, f/2) oznacza większą efektywną średnicę otworu przysłony D. Większa średnica otworu to z kolei większa jego powierzchnia, przez którą może wpadać światło do wnętrza aparatu. Można to przyrównać do ułamków: 1/2 jest wartością większą niż 1/16, stąd przysłona f/2 wpuszcza więcej światła niż f/16.
 
 ### Skala wartości f-stop i jej związek z ilością światła
 
 Standardowy szereg wartości przysłony został tak skonstruowany, aby każda kolejna pełna wartość (stopień) zmieniała ilość przepuszczanego światła dokładnie dwukrotnie.
 
-* **Standardowy szereg f-stopów:** Typowe pełne stopnie przysłony, które można znaleźć na obiektywach lub w ustawieniach aparatu, to: f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32, itd.. Współczesne aparaty cyfrowe pozwalają na bardziej precyzyjną regulację przysłony, zazwyczaj w krokach co 1/2 lub 1/3 stopnia EV (wartości ekspozycji).  
-* **Wyjaśnienie, dlaczego każda kolejna pełna wartość f-stop zmienia ilość światła dwukrotnie:** Kluczem do zrozumienia tej zależności jest fakt, że ilość światła wpadającego do aparatu jest proporcjonalna do **powierzchni** otworu przysłony, a nie do jego średnicy. Otwór przysłony jest w przybliżeniu kołem, a powierzchnia koła (A) wyraża się wzorem A=π⋅(D/2)2=(π⋅D2)/4. Aby dwukrotnie zwiększyć lub zmniejszyć ilość przepuszczanego światła, należy odpowiednio dwukrotnie zwiększyć lub zmniejszyć powierzchnię otworu przysłony. Załóżmy, że mamy dwie powierzchnie otworu, A1​ i A2​, takie że A2​=2⋅A1​. Wówczas: (π⋅D22​)/4=2⋅(π⋅D12​)/4 Po uproszczeniu otrzymujemy: D22​=2⋅D12​, co prowadzi do D2​=D1​⋅2​. Oznacza to, że aby zmienić ilość światła dwukrotnie (czyli zmienić powierzchnię otworu dwukrotnie), średnica otworu musi zmienić się o czynnik 2​ (w przybliżeniu 1.4). Ponieważ liczba f (N) jest odwrotnie proporcjonalna do średnicy otworu (N=f/D), to aby średnica zmieniła się o czynnik 2​ (lub 1/2​), liczba f musi zmienić się również o czynnik 2​ (lub 1/2​). Dlatego kolejne wartości w standardowym szeregu f-stopów są tworzone poprzez mnożenie (lub dzielenie) poprzedniej wartości przez 2​. Na przykład: 1⋅2​≈1.4 1.4⋅2​≈2 2⋅2​≈2.8 2.8⋅2​≈4 I tak dalej. Zatem zmiana wartości przysłony o jeden pełny stopień (np. z f/2.8 na f/4) oznacza zmianę średnicy otworu o czynnik 2​, co skutkuje dwukrotną zmianą powierzchni otworu, a tym samym dwukrotną zmianą ilości przepuszczanego światła.
+**Standardowy szereg f-stopów:** Typowe pełne stopnie przysłony, które można znaleźć na obiektywach lub w ustawieniach aparatu, to: f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32, itd.. Współczesne aparaty cyfrowe pozwalają na bardziej precyzyjną regulację przysłony, zazwyczaj w krokach co 1/2 lub 1/3 stopnia EV (wartości ekspozycji).
+
+### **Jak zmiana przysłony wpływa na ilość światła? Wyjaśnienie**
+
+Kluczem do zrozumienia, dlaczego każdy kolejny stopień przysłony (f-stop) zmienia ilość światła dwukrotnie, jest zrozumienie zależności między trzema elementami: **powierzchnią otworu**, jego **średnicą** oraz **liczbą f**.
+
+#### **Krok 1: Liczy się powierzchnia, nie średnica**
+
+Ilość światła, która wpada do aparatu, jest wprost proporcjonalna do **powierzchni** otworu przysłony. Otwór ten jest kołem, a pole powierzchni koła (A) obliczamy ze wzoru, używając jego średnicy (D):
+
+`A = π * (D/2)² = (π * D²) / 4`
+
+Aby **podwoić** ilość wpadającego światła, musimy **podwoić powierzchnię** otworu (A₂ = 2 * A₁). Zobaczmy, jak zmiana ta wpływa na wymaganą średnicę (D):
+
+`(π * D₂²) / 4 = 2 * (π * D₁²) / 4`
+
+Po uproszczeniu wzoru przez usunięcie z obu stron `π` oraz `/4` otrzymujemy:
+
+`D₂² = 2 * D₁²`
+
+A po wyciągnięciu pierwiastka z obu stron:
+
+`D₂ = D₁ * √2`
+
+**Wniosek:** Aby **podwoić powierzchnię** otworu (i wpuścić dwa razy więcej światła), jego **średnica** musi wzrosnąć o czynnik **√2** (czyli około 1,41).
+
+---
+
+#### **Krok 2: Czym jest liczba f (f-number)?**
+
+Liczba f (oznaczana jako N) to stosunek ogniskowej obiektywu (f) do średnicy otworu przysłony (D):
+
+`N = ogniskowa (f) / średnica (D)`
+
+Z tego wzoru wynika, że liczba f jest **odwrotnie proporcjonalna** do średnicy otworu.
+* **Większa średnica** (więcej światła) = **mniejsza liczba f** (np. f/1.4).
+* **Mniejsza średnica** (mniej światła) = **większa liczba f** (np. f/16).
+
+---
+
+#### **Krok 3: Łączymy wszystko w całość**
+
+Skoro wiemy już wszystko, połączmy te fakty:
+
+* **Aby zmniejszyć ilość światła o połowę** (czyli zamknąć przysłonę o 1 stopień, np. z f/2.8 na f/4), musimy zmniejszyć **powierzchnię** dwukrotnie. Wymaga to zmniejszenia **średnicy** o czynnik √2. Aby to osiągnąć, **liczba f musi zostać pomnożona przez √2**.
+  * *Przykład:* `f/2.8 * √2 ≈ f/4`
+
+* **Aby zwiększyć ilość światła dwukrotnie** (czyli otworzyć przysłonę o 1 stopień, np. z f/4 na f/2.8), musimy zwiększyć **powierzchnię** dwukrotnie. Wymaga to zwiększenia **średnicy** o czynnik √2. Aby to osiągnąć, **liczba f musi zostać podzielona przez √2**.
+  * *Przykład:* `f/4 / √2 ≈ f/2.8`
+
+#### **Standardowy szereg wartości przysłony**
+
+Dlatego właśnie standardowy szereg wartości przysłony jest tworzony przez kolejne mnożenie (lub dzielenie) przez pierwiastek z dwóch (≈ 1.4).
+
+**f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22**
+
+Każdy kolejny krok w prawo w tym szeregu oznacza **zmniejszenie ilości światła o połowę**. Każdy krok w lewo oznacza jej **podwojenie**.
 
 ### Wartość Ekspozycji (EV – Exposure Value)
 

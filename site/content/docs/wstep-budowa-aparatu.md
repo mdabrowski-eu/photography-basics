@@ -10,7 +10,7 @@ Zrozumienie działania aparatu fotograficznego rozpoczyna się od poznania jego 
 
 Podstawowa zasada działania każdego aparatu fotograficznego, niezależnie od jego zaawansowania technologicznego, wywodzi się bezpośrednio od **camera obscura** (łac. ciemna komnata).1 Jest to proste urządzenie optyczne, w którym światło odbite od zewnętrznych obiektów, przechodząc przez niewielki otwór w jednej ze ścian zaciemnionego pomieszczenia lub pudełka, tworzy na przeciwległej ścianie odwrócony i pomniejszony obraz tych obiektów. Kluczowe jest tu zrozumienie, że mały otwór działa jak selektor promieni świetlnych – przepuszcza jedynie te, które biegną po liniach prostych od konkretnych punktów sceny do odpowiadających im punktów na powierzchni obrazowej, umożliwiając w ten sposób odwzorowanie sceny.1 Ta fundamentalna zasada przechwytywania obrazu za pomocą kontrolowanego przepuszczania światła pozostała niezmienna przez wieki ewolucji fotografii. Aparaty analogowe zastąpiły prosty otwór skomplikowanym systemem soczewek (obiektywem) i dodały mechanizmy kontroli światła, takie jak przysłona i migawka, ale nadal bazowały na chemicznej reakcji materiału światłoczułego na padające fotony.1 Współczesne aparaty cyfrowe, choć zastąpiły kliszę matrycą elektroniczną, wciąż opierają się na tych samych zasadach optycznych – obiektyw skupia światło, przysłona reguluje jego ilość, a migawka (lub jej elektroniczny odpowiednik) kontroluje czas ekspozycji.1 Sedno procesu – zarządzanie światłem w celu zarejestrowania obrazu – jest więc wspólne dla wszystkich tych technologii. Zrozumienie tej ciągłości jest kluczowe, ponieważ podkreśla, że niezależnie od stopnia skomplikowania używanego sprzętu, głęboka znajomość natury światła i podstaw optyki stanowi fundament pracy każdego fotografa.
 
-### **Kluczowe moduły aparatu fotograficznego i ich podstawowe funkcje**
+### Kluczowe moduły aparatu fotograficznego i ich podstawowe funkcje
 
 Każdy aparat fotograficzny, czy to klasyczny model na kliszę, czy nowoczesna cyfrówka, składa się z kilku kluczowych modułów, które współpracują ze sobą, aby stworzyć zdjęcie:
 
@@ -22,11 +22,11 @@ Każdy aparat fotograficzny, czy to klasyczny model na kliszę, czy nowoczesna c
 * **Wizjer (Viewfinder):** Umożliwia fotografowi podgląd kadru, czyli tego, co zostanie zarejestrowane na zdjęciu, jeszcze przed jego wykonaniem.2 Wizjery mogą być optyczne (jak w lustrzankach, gdzie obraz z obiektywu jest kierowany do oka za pomocą lustra i pryzmatu) lub elektroniczne (jak w aparatach bezlusterkowych i kompaktowych, gdzie na małym ekranie wyświetlany jest obraz bezpośrednio z matrycy).  
 * **System ustawiania ostrości (Focusing System):** Mechanizm pozwalający na precyzyjne ustawienie soczewek obiektywu tak, aby wybrany fragment sceny był odwzorowany na materiale światłoczułym jako ostry. Może być manualny (ręczny, sterowany przez fotografa) lub automatyczny (autofokus, AF), gdzie aparat sam ustawia ostrość na podstawie analizy obrazu.
 
-### **Wzajemne oddziaływanie modułów w procesie tworzenia obrazu**
+### Wzajemne oddziaływanie modułów w procesie tworzenia obrazu
 
 Proces tworzenia zdjęcia to harmonijna współpraca wszystkich wymienionych komponentów. Światło odbite od fotografowanej sceny wpada do aparatu przez **obiektyw**. Zespół soczewek w obiektywie skupia te promienie. Wielkość otworu **przysłony**, znajdującej się w obiektywie, decyduje o tym, jak duża część tego światła (jego natężenie) dotrze dalej.1 Następnie, po naciśnięciu spustu, **migawka** otwiera się na precyzyjnie określony czas, umożliwiając światłu dotarcie do **materiału światłoczułego**. W tym momencie na kliszy lub matrycy powstaje utajony obraz, który w przypadku kliszy wymaga dalszej obróbki chemicznej, a w przypadku matrycy jest przetwarzany elektronicznie na obraz cyfrowy. Fotograf przez cały czas kontroluje kompozycję kadru za pomocą **wizjera** i dba o to, by główny motyw był ostry, korzystając z **systemu ustawiania ostrości**. Każdy z tych elementów odgrywa kluczową rolę, a ich wzajemne ustawienia (czas naświetlania, wartość przysłony, czułość materiału światłoczułego, punkt ostrości) decydują o finalnym wyglądzie fotografii.
 
-### **Zwięzłe porównanie budowy aparatu analogowego i cyfrowego**
+### Zwięzłe porównanie budowy aparatu analogowego i cyfrowego
 
 Choć fundamentalne zasady optyczne pozostają te same, istnieją kluczowe różnice w budowie aparatów analogowych i cyfrowych, wynikające przede wszystkim z odmiennego sposobu rejestracji i przetwarzania obrazu.
 

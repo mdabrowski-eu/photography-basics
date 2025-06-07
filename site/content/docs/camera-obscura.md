@@ -8,7 +8,7 @@ Camera Obscura, z łaciny "ciemny pokój", to proste urządzenie optyczne, któr
 
 ---
 
-### **Zasada Działania: Magia Prostych Linii Światła**
+### Zasada Działania: Magia Prostych Linii Światła
 
 Wbrew pozorom, w Camera Obscura nie ma żadnej "magii" – jest czysta fizyka. Kluczem do zrozumienia jej działania jest uświadomienie sobie, że **światło rozchodzi się w liniach prostych**.
 
@@ -26,7 +26,7 @@ W ten sposób na wewnętrznej ścianie powstaje obraz, który jest:
 * **Odwrócony prawo-lewo.**  
 * **Rzeczywisty**, co oznacza, że można go fizycznie zobaczyć na ekranie (w przeciwieństwie do obrazu w lustrze, który jest pozorny).
 
-### **Rola Otworu: Kompromis Między Ostrością a Jasnością**
+### Rola Otworu: Kompromis Między Ostrością a Jasnością
 
 Wielkość otworu (apertury) ma kluczowe znaczenie dla jakości uzyskanego obrazu i jest sednem kompromisu w działaniu Camera Obscura.
 
@@ -36,7 +36,7 @@ Wielkość otworu (apertury) ma kluczowe znaczenie dla jakości uzyskanego obraz
 
 Zatem idealny otwór to taki, który jest wystarczająco mały, by zapewnić dobrą ostrość, a jednocześnie na tyle duży, by obraz był wystarczająco jasny do obserwacji.
 
-### **Ewolucja i Zastosowania: Od Astronomii po Malarstwo**
+### Ewolucja i Zastosowania: Od Astronomii po Malarstwo
 
 Zjawisko Camera Obscura było znane już w starożytności – opisywali je m.in. chiński filozof Mo Di oraz Arystoteles, który obserwował w ten sposób zaćmienia Słońca. Przez wieki urządzenie to było udoskonalane.
 
@@ -50,7 +50,7 @@ Camera Obscura była nieocenionym narzędziem dla:
 
 Ostatecznie, gdy w XIX wieku odkryto materiały światłoczułe, które mogły trwale zapisać obraz powstający wewnątrz "ciemnego pokoju", Camera Obscura przekształciła się w aparat fotograficzny, rewolucjonizując sposób, w jaki postrzegamy i dokumentujemy świat.
 
-### **1\. Czym jest Głębia Ostrości w Zwykłym Aparacie?**
+### 1\. Czym jest Głębia Ostrości w Zwykłym Aparacie?
 
 W aparacie z obiektywem (soczewką), **głębia ostrości** to zakres odległości (od bliży do dali), w którym obiekty na zdjęciu wydają się akceptowalnie ostre.
 
@@ -58,7 +58,7 @@ W aparacie z obiektywem (soczewką), **głębia ostrości** to zakres odległoś
 * **Płaszczyzna Ostrości:** W danym momencie tylko jedna, konkretna odległość od aparatu jest idealnie "w ognisku". To jest tzw. płaszczyzna ostrości.  
 * **Rozmycie:** Obiekty znajdujące się przed lub za tą płaszczyzną stają się stopniowo coraz bardziej rozmyte. Dzieje się tak, ponieważ promienie światła z tych nieostrych obiektów nie zbiegają się w punkt na matrycy, ale tworzą tzw. **krążek rozmycia** (ang. *circle of confusion*). Jeśli ten krążek jest wystarczająco mały, nasze oko nadal postrzega go jako punkt i obiekt wydaje się ostry. Głębia ostrości to właśnie ten zakres, gdzie krążki rozmycia są akceptowalnie małe.
 
-### **2\. Dlaczego w Camera Obscura Jest Inaczej? Brak Ogniskowania.**
+### 2\. Dlaczego w Camera Obscura Jest Inaczej? Brak Ogniskowania.
 
 Camera Obscura **nie ma soczewki, która by zginała i ogniskowała światło**. Jej jedynym elementem optycznym jest maleńki otwór (*pinhole*).
 
@@ -74,7 +74,7 @@ Skoro każdy obiekt, bez względu na jego odległość, jest rzutowany na ekran 
 
 ---
 
-### **3\. Kompromis: Ostrość a Dyfrakcja**
+### 3\. Kompromis: Ostrość a Dyfrakcja
 
 Czy to oznacza, że Camera Obscura jest optycznie doskonała? Nie. Jej "nieskończona głębia ostrości" ma swoją cenę.
 
@@ -85,7 +85,7 @@ Dlatego nawet w idealnej Camera Obscura istnieje optymalny rozmiar otworu, któr
 
 Camera Obscura ma więc nieskończoną głębię ostrości nie dlatego, że posiada jakiś zaawansowany mechanizm, ale wręcz przeciwnie – dlatego, że jest go **pozbawiona**. Jej prostota jest źródłem tej fascynującej właściwości.
 
-## **Co Decyduje o "Ogniskowej" w Camera Obscura? Odległość, Nie Ognisko**
+## Co Decyduje o "Ogniskowej" w Camera Obscura? Odległość, Nie Ognisko
 
 Pytanie o ogniskową w Camera Obscura jest niezwykle trafne, ponieważ dotyka fundamentalnej różnicy między tym urządzeniem a aparatem wyposażonym w obiektyw. W ścisłym, optycznym sensie, **Camera Obscura nie posiada ogniskowej**, ponieważ nie ma soczewki, a co za tym idzie – nie ma punktu ogniskowego, w którym zbiegają się promienie światła.
 
@@ -95,21 +95,21 @@ To właśnie ta odległość decyduje o dwóch kluczowych cechach obrazu, tak ja
 
 ---
 
-### **Jak Odległość Otworu od Ekranu Wpływa na Obraz?**
+### Jak Odległość Otworu od Ekranu Wpływa na Obraz?
 
 Wyobraźmy sobie naszą Camera Obscura jako proste pudełko. Odległość, o której mówimy, to po prostu jego głębokość.
 
-#### **1\. Krótka "Ogniskowa" (Mała odległość otworu od ekranu)**
+#### 1\. Krótka "Ogniskowa" (Mała odległość otworu od ekranu)
 
 * **Działanie:** Gdy ekran znajduje się blisko otworu, do "złapania" obrazu wykorzystywany jest bardzo szeroki stożek światła wpadającego do środka.  
 * **Efekt:** Otrzymujemy obraz o **szerokim kącie widzenia**. Na ekranie mieści się bardzo rozległy fragment sceny. Obiekty wydają się małe, a perspektywa jest przerysowana – podobnie jak w przypadku obiektywów szerokokątnych w tradycyjnej fotografii.
 
-#### **2\. Długa "Ogniskowa" (Duża odległość otworu od ekranu)**
+#### 2\. Długa "Ogniskowa" (Duża odległość otworu od ekranu)
 
 * **Działanie:** Gdy odsuniemy ekran daleko od otworu, obejmie on znacznie węższy fragment stożka wpadającego światła.  
 * **Efekt:** Otrzymujemy obraz o **wąskim kącie widzenia** i **większym powiększeniu**. Na ekranie widzimy tylko niewielki wycinek sceny, ale za to jest on znacznie powiększony. Działa to analogicznie do teleobiektywu.
 
-### **Podsumowanie: Odpowiednik Ogniskowej**
+### Podsumowanie: Odpowiednik Ogniskowej
 
 Można więc powiedzieć, że w Camera Obscura "ogniskowa" jest pojęciem umownym i jest **bezpośrednio równa fizycznej odległości od otworu do powierzchni, na której rzutowany jest obraz**.
 

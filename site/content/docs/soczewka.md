@@ -7,7 +7,7 @@ weight: 20
 
 Obiektyw, będący sercem każdego aparatu fotograficznego, to precyzyjny instrument optyczny, którego zadaniem jest zebranie światła z otaczającej sceny i uformowanie z niego ostrego obrazu na powierzchni materiału światłoczułego. Zrozumienie jego działania wymaga zagłębienia się w podstawy optyki i poznania kluczowych parametrów, takich jak ogniskowa.
 
-### **Podstawy optyki: załamanie światła i działanie soczewek**
+### Podstawy optyki: załamanie światła i działanie soczewek
 
 Fundamentalnym zjawiskiem, na którym opiera się działanie soczewek, jest **załamanie światła (refrakcja)**. Dochodzi do niego, gdy promień świetlny przechodzi przez granicę dwóch przezroczystych ośrodków różniących się gęstością optyczną (np. z powietrza do szkła lub ze szkła do powietrza).3 Zmiana gęstości optycznej powoduje zmianę prędkości rozchodzenia się światła, co z kolei prowadzi do zmiany kierunku jego biegu, o ile promień nie pada prostopadle na granicę ośrodków. Wielkość tego odchylenia opisuje prawo Snella.
 
@@ -20,7 +20,7 @@ Wyróżniamy dwa podstawowe typy soczewek:
 
 Należy podkreślić, że obiektyw fotograficzny to nie pojedyncza soczewka, lecz **złożony układ optyczny**, składający się z wielu (czasem nawet kilkunastu lub kilkudziesięciu) soczewek, zarówno skupiających, jak i rozpraszających. Taka konstrukcja jest niezbędna do skorygowania licznych wad optycznych (aberracji), które nieuchronnie towarzyszą pojedynczym soczewkom, oraz do zapewnienia wysokiej jakości obrazu w całym kadrze. W nowoczesnych obiektywach stosuje się soczewki o specjalnych kształtach, np. **asferyczne**, które minimalizują zniekształcenia geometryczne i poprawiają ostrość na brzegach obrazu 2, oraz soczewki wykonane ze specjalnych gatunków szkła, np. **niskodyspersyjnego (ED, UD, LD, SLD)**, które redukują **aberrację chromatyczną** (rozszczepienie światła na barwy składowe, prowadzące do kolorowych obwódek na kontrastowych krawędziach).5 Zrozumienie, że obiektyw jest tak skomplikowanym systemem, pozwala docenić wysiłek inżynierów w dążeniu do jak najwierniejszego przeniesienia trójwymiarowej rzeczywistości na płaską powierzchnię rejestrującą.
 
-### **Pojęcie ogniskowej (Focal Length)**
+### Pojęcie ogniskowej (Focal Length)
 
 **Ogniskowa (F)** jest jednym z najważniejszych parametrów charakteryzujących obiektyw. Z fizycznego punktu widzenia, jest to **odległość od środka optycznego obiektywu (lub, precyzyjniej, od jego głównej płaszczyzny obrazowej tylnej) do punktu, w którym skupiają się promienie światła wpadające do obiektywu równolegle do jego osi optycznej**.6 Takie równoległe promienie pochodzą od obiektów znajdujących się w bardzo dużej odległości (teoretycznie w nieskończoności). W tym punkcie, zwanym ogniskiem, powstaje ostry obraz tych odległych obiektów. Ogniskową wyraża się zazwyczaj w milimetrach (mm).
 
@@ -33,7 +33,7 @@ Określenia "długa ogniskowa" i "krótka ogniskowa" odnoszą się bezpośrednio
 
 Ogniskowa jest fundamentalnym parametrem, który determinuje, jak obiektyw "widzi" świat i jak odwzorowuje go na materiale światłoczułym.
 
-### **Wpływ ogniskowej na obraz**
+### Wpływ ogniskowej na obraz
 
 Zmiana ogniskowej obiektywu pociąga za sobą szereg konsekwencji dla rejestrowanego obrazu, wpływając na jego kompozycję, odbiór i charakter.
 
@@ -49,7 +49,7 @@ Zmiana ogniskowej obiektywu pociąga za sobą szereg konsekwencji dla rejestrowa
   * Przy tej samej wartości przysłony i tej samej odległości od obiektu, **dłuższe ogniskowe dają mniejszą (płytszą) głębię ostrości**. Oznacza to, że łatwiej jest uzyskać efekt rozmytego tła (bokeh), izolując główny obiekt od otoczenia.6  
   * **Krótsze ogniskowe dają większą (głębszą) głębię ostrości**. Trudniej jest uzyskać mocne rozmycie tła, a więcej elementów w kadrze, zarówno na pierwszym planie, jak i w tle, pozostaje ostrych.7 Szczegółowe omówienie mechanizmu powstawania głębi ostrości i roli przysłony znajduje się w dalszej części prezentacji, jednak już tutaj należy zaznaczyć istotny wpływ ogniskowej na ten aspekt obrazu.
 
-### **Rodzaje obiektywów ze względu na ogniskową i ich zastosowania**
+### Rodzaje obiektywów ze względu na ogniskową i ich zastosowania
 
 Różnorodność dostępnych ogniskowych pozwala fotografom na dobór odpowiedniego narzędzia do konkretnego zadania i zamierzonego efektu artystycznego. Obiektywy można podzielić na kilka głównych kategorii (podane zakresy ogniskowych odnoszą się do aparatów pełnoklatkowych, dla matryc mniejszych formatów należy uwzględnić tzw. mnożnik ogniskowej):
 
@@ -67,32 +67,32 @@ Różnorodność dostępnych ogniskowych pozwala fotografom na dobór odpowiedni
 * **Obiektywy makro (Macro):** Są to specjalnie skonstruowane obiektywy, które pozwalają na uzyskanie bardzo dużej skali odwzorowania (często 1:1, co oznacza, że obraz obiektu na matrycy ma takie same wymiary jak sam obiekt, lub nawet większej). Umożliwiają fotografowanie bardzo małych obiektów z niewielkiej odległości, ukazując detale niewidoczne gołym okiem. Ogniskowe obiektywów makro są różne, często spotykane to 50mm, 60mm, 90mm, 100mm, 105mm, 150mm, 180mm.6  
   * **Zastosowanie:** Fotografia przyrodnicza (owady, kwiaty, detale roślin), fotografia produktowa (małe przedmioty, biżuteria), fotografia techniczna i naukowa.
 
-### **Obiektywy stałoogniskowe (Prime Lenses) vs. zmiennoogniskowe (Zoom Lenses)**
+### Obiektywy stałoogniskowe (Prime Lenses) vs. zmiennoogniskowe (Zoom Lenses)
 
 Fotografowie stają często przed wyborem między obiektywami o stałej ogniskowej a obiektywami zmiennoogniskowymi. Każdy typ ma swoje zalety i wady.
 
 * **Obiektywy stałoogniskowe (tzw. "stałki", prime lenses):** Posiadają jedną, niezmienną wartość ogniskowej.6 Aby zmienić kadrowanie (powiększenie obiektu), fotograf musi fizycznie zmienić swoją odległość od fotografowanej sceny.  
   * **Zalety:**  
     * **Lepsza jakość optyczna:** Zazwyczaj oferują wyższą jakość obrazu. Ich prostsza konstrukcja optyczna (mniejsza liczba grup soczewek i pojedynczych soczewek) pozwala na lepszą korekcję wad optycznych, co przekłada się na większą ostrość, lepszy kontrast i mniejsze zniekształcenia.6  
-    * **Większa jasność (światłosiła):** Często posiadają znacznie większy maksymalny otwór względny przysłony (np. f/1.8, f/1.4, a nawet f/1.2 czy f/0.95) w porównaniu do obiektywów zmiennoogniskowych w podobnej cenie.6 Pozwala to na fotografowanie w trudniejszych warunkach oświetleniowych bez konieczności podnoszenia czułości ISO oraz na uzyskanie bardzo płytkiej głębi ostrości i pięknego efektu bokeh.  
+    * **Większa jasność (światłosiła):** Często posiadają znacznie większy maksymalny otwór względny przysłony (np. f/1.8, f/1.4, a nawet f/1.2 czy f/0.) w porównaniu do obiektywów zmiennoogniskowych w podobnej cenie.6 Pozwala to na fotografowanie w trudniejszych warunkach oświetleniowych bez konieczności podnoszenia czułości ISO oraz na uzyskanie bardzo płytkiej głębi ostrości i pięknego efektu bokeh.  
     * **Mniejsze wymiary i waga:** Zazwyczaj są mniejsze i lżejsze od zoomów o porównywalnej jakości.  
     * **Wymuszają kreatywność:** Brak możliwości "zoomowania" zmusza fotografa do bardziej świadomego kadrowania, aktywnego poszukiwania najlepszego punktu widzenia i przemieszczania się, co może prowadzić do ciekawszych ujęć.  
   * **Wady:**  
     * **Brak wszechstronności:** Konieczność zmiany obiektywu (jeśli posiadamy ich kilka) lub fizycznego przemieszczania się w celu zmiany kadru może być niewygodna i czasochłonna, szczególnie w dynamicznych sytuacjach (np. reportaż, fotografia sportowa).  
     * Aby pokryć szeroki zakres zastosowań, często potrzebne jest posiadanie kilku obiektywów stałoogniskowych.  
-* **Obiektywy zmiennoogniskowe (tzw. "zoomy", zoom lenses):** Umożliwiają płynną zmianę ogniskowej w określonym zakresie (np. 24-70mm, 70-200mm) za pomocą pierścienia na obudowie obiektywu.11  
+* **Obiektywy zmiennoogniskowe (tzw. "zoomy", zoom lenses):** Umożliwiają płynną zmianę ogniskowej w określonym zakresie (np. 24-70mm, 70-200mm) za pomocą pierścienia na obudowie obiektywu.  
   * **Zalety:**  
-    * **Wszechstronność i wygoda:** Główną zaletą jest możliwość szybkiej zmiany kadru i powiększenia obiektu bez konieczności zmiany obiektywu czy zmiany pozycji fotografa.11 Jeden obiektyw zmiennoogniskowy może zastąpić kilka obiektywów stałoogniskowych, co jest szczególnie przydatne w podróży, fotografii reportażowej czy eventowej.  
+    * **Wszechstronność i wygoda:** Główną zaletą jest możliwość szybkiej zmiany kadru i powiększenia obiektu bez konieczności zmiany obiektywu czy zmiany pozycji fotografa. Jeden obiektyw zmiennoogniskowy może zastąpić kilka obiektywów stałoogniskowych, co jest szczególnie przydatne w podróży, fotografii reportażowej czy eventowej.  
     * **Szybkość reakcji:** Pozwalają na błyskawiczne dostosowanie kadru do zmieniającej się sytuacji.  
   * **Wady:**  
     * **Jakość optyczna:** Ze względu na bardziej skomplikowaną konstrukcję (większa liczba ruchomych grup soczewek), osiągnięcie takiej samej jakości optycznej jak w przypadku dobrych "stałek" jest trudniejsze i często droższe. Tańsze zoomy mogą wykazywać większe dystorsje, winietowanie czy spadek ostrości na brzegach kadru, zwłaszcza przy skrajnych ogniskowych.  
-    * **Jasność (światłosiła):** Wiele popularnych i tańszych zoomów ma zmienną maksymalną przysłonę, która staje się "ciemniejsza" (mniejszy otwór, większa liczba f) wraz ze wzrostem ogniskowej (np. f/3.5-5.6).10 Profesjonalne zoomy o stałej, dużej jasności (np. f/2.8) są zazwyczaj znacznie droższe, większe i cięższe.10  
+    * **Jasność (światłosiła):** Wiele popularnych i tańszych zoomów ma zmienną maksymalną przysłonę, która staje się "ciemniejsza" (mniejszy otwór, większa liczba f) wraz ze wzrostem ogniskowej (np. f/3.5-5.6). Profesjonalne zoomy o stałej, dużej jasności (np. f/2.8) są zazwyczaj znacznie droższe, większe i cięższe.  
     * **Rozmiar i waga:** Zazwyczaj są większe i cięższe od obiektywów stałoogniskowych o podobnym zakresie najkrótszej ogniskowej.  
-    * **Cena:** Wysokiej jakości obiektywy zmiennoogniskowe, zwłaszcza te o stałym świetle, są zazwyczaj drogie.11
+    * **Cena:** Wysokiej jakości obiektywy zmiennoogniskowe, zwłaszcza te o stałym świetle, są zazwyczaj drogie.
 
 Wybór między obiektywem stałoogniskowym a zmiennoogniskowym jest często kompromisem między maksymalną jakością optyczną i światłosiłą (charakterystyczną dla "stałek") a wszechstronnością i wygodą (oferowaną przez "zoomy"). Jednakże, postęp technologiczny w dziedzinie optyki sprawia, że najlepsze współczesne obiektywy zmiennoogniskowe coraz bardziej zbliżają się jakością obrazu do obiektywów stałoogniskowych, choć zazwyczaj wiąże się to z wyższą ceną. Dla wielu profesjonalistów wysokiej klasy zoomy oferują wystarczającą jakość przy znacznie większej elastyczności. Dla amatorów i entuzjastów, jasne obiektywy stałoogniskowe mogą być bardziej dostępne cenowo i oferować lepszą jakość obrazu oraz większą światłosiłę niż podstawowe, tzw. "kitowe" obiektywy zmiennoogniskowe.
 
-### **Tabela: Porównanie Typowych Ogniskowych (dla pełnej klatki) i Ich Zastosowań**
+### Tabela: Porównanie Typowych Ogniskowych (dla pełnej klatki) i Ich Zastosowań
 
 Poniższa tabela przedstawia skondensowane informacje dotyczące praktycznych implikacji wyboru różnych ogniskowych w aparatach pełnoklatkowych. Łączy ona teoretyczną wiedzę o kącie widzenia i wpływie na perspektywę z konkretnymi przykładami zastosowań, co ułatwia przełożenie teorii na praktykę fotograficzną.
 
@@ -108,5 +108,5 @@ Poniższa tabela przedstawia skondensowane informacje dotyczące praktycznych im
 
 Wybór ogniskowej to fundamentalna decyzja artystyczna, a nie tylko techniczna. Kształtuje ona sposób, w jaki widz postrzega przestrzeń i relacje między obiektami na zdjęciu, stając się narzędziem do opowiadania historii. Różne ogniskowe dają różne kąty widzenia, co determinuje, ile sceny jest uchwycone.6 Co ważniejsze, ogniskowa wpływa na odwzorowanie perspektywy – krótkie ogniskowe "rozciągają" przestrzeń i oddalają tło, a długie "kompresują" ją i przybliżają tło.6 Manipulacja perspektywą pozwala fotografowi podkreślić pewne elementy, ukryć inne, stworzyć wrażenie głębi lub spłaszczenia, izolować obiekt lub pokazać go w kontekście.6 Te wybory wpływają na odbiór emocjonalny zdjęcia i narrację wizualną.7
 
-Istnieje również nierozerwalny związek między ogniskową, odległością od obiektu a głębią ostrości. Te trzy elementy muszą być rozpatrywane łącznie przy planowaniu zdjęcia. Zmiana jednego pociąga za sobą konieczność dostosowania pozostałych, jeśli chcemy osiągnąć określony efekt. Dłuższe ogniskowe generalnie dają mniejszą głębię ostrości 6, a mniejsza odległość od obiektu również skutkuje mniejszą głębią ostrości.13 Jeśli fotograf chce uzyskać ten sam kadr (to samo powiększenie obiektu) przy użyciu różnych ogniskowych, musi zmienić swoją odległość od obiektu. Ta zmiana odległości również wpłynie na głębię ostrości. Jednak dominujący efekt na głębię ostrości (przy zachowaniu tego samego kadru) ma zmiana ogniskowej – dłuższe ogniskowe ułatwiają uzyskanie płytszej głębi. Zrozumienie tych współzależności jest kluczowe dla precyzyjnej kontroli nad ostrością i rozmyciem w kadrze.
+Istnieje również nierozerwalny związek między ogniskową, odległością od obiektu a głębią ostrości. Te trzy elementy muszą być rozpatrywane łącznie przy planowaniu zdjęcia. Zmiana jednego pociąga za sobą konieczność dostosowania pozostałych, jeśli chcemy osiągnąć określony efekt. Dłuższe ogniskowe generalnie dają mniejszą głębię ostrości 6, a mniejsza odległość od obiektu również skutkuje mniejszą głębią ostrości. Jeśli fotograf chce uzyskać ten sam kadr (to samo powiększenie obiektu) przy użyciu różnych ogniskowych, musi zmienić swoją odległość od obiektu. Ta zmiana odległości również wpłynie na głębię ostrości. Jednak dominujący efekt na głębię ostrości (przy zachowaniu tego samego kadru) ma zmiana ogniskowej – dłuższe ogniskowe ułatwiają uzyskanie płytszej głębi. Zrozumienie tych współzależności jest kluczowe dla precyzyjnej kontroli nad ostrością i rozmyciem w kadrze.
 

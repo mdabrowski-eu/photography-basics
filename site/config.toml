@@ -1,0 +1,7 @@
+baseURL = 'https://example.github.io/photography-basics/'
+languageCode = 'pl'
+title = 'Podstawy Fotografii'
+theme = 'hugo-book'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'

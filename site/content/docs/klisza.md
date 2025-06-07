@@ -1,4 +1,8 @@
-## **4\. Materiał światłoczuły**
+---
+title: "4. Materiał światłoczuły"
+weight: 4
+---
+
 
 Materiał światłoczuły jest kluczowym elementem aparatu fotograficznego, odpowiedzialnym za faktyczną rejestrację obrazu rzutowanego przez obiektyw. Przez dziesięciolecia dominowała fotografia analogowa oparta na kliszy, jednak rewolucja cyfrowa wprowadziła matryce elektroniczne, które obecnie są standardem. Zrozumienie zasad działania obu tych technologii pozwala docenić zarówno dziedzictwo fotografii chemicznej, jak i możliwości oferowane przez współczesne sensory cyfrowe.
 

@@ -1,4 +1,8 @@
-## **6\. Dlaczego światło liczy się w przysłonach (f-stops) i w jaki sposób przelicza się f-stopy dla migawki, czułości, przysłony etc.**
+---
+title: "6. Dlaczego światło liczy się w przysłonach (f-stops) i w jaki sposób przelicza się f-stopy dla migawki, czułości, przysłony etc."
+weight: 7
+---
+
 
 Zrozumienie systemu wartości przysłony (f-stopów) oraz ich związku z czasem naświetlania i czułością ISO jest fundamentalne dla świadomego kontrolowania ekspozycji w fotografii. System ten, choć na pierwszy rzut oka może wydawać się nieintuicyjny, opiera się na solidnych podstawach fizycznych i matematycznych, które zapewniają jego uniwersalność i precyzję.
 

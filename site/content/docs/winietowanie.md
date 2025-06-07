@@ -1,4 +1,8 @@
-## **7\. Z czego wynika winietowanie i jak można mu zapobiec**
+---
+title: "7. Z czego wynika winietowanie i jak można mu zapobiec"
+weight: 8
+---
+
 
 Winietowanie jest częstym zjawiskiem w fotografii, objawiającym się jako stopniowy spadek jasności lub nasycenia kolorów na brzegach i w rogach kadru w porównaniu do jego centralnej części.60 Może być ono postrzegane jako wada optyczna obiektywu, ale czasami jest również stosowane jako celowy efekt artystyczny, mający na celu skupienie uwagi widza na środku obrazu.60 Zrozumienie przyczyn różnych typów winietowania jest kluczowe dla jego minimalizacji lub świadomego wykorzystania.
 

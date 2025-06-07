@@ -1,4 +1,8 @@
-## **Jak Działa Camera Obscura: Dogłębne i Intuicyjne Wyjaśnienie**
+---
+title: "Jak Działa Camera Obscura: Dogłębne i Intuicyjne Wyjaśnienie"
+weight: 11
+---
+
 
 Camera Obscura, z łaciny "ciemny pokój", to proste urządzenie optyczne, które stanowiło pierwowzór aparatu fotograficznego. Jej działanie opiera się na fundamentalnej właściwości światła i pozwala na rzutowanie rzeczywistego, choć odwróconego, obrazu otoczenia na powierzchnię wewnątrz zaciemnionej przestrzeni. Zrozumienie jej mechanizmu to podróż do samych podstaw optyki.
 

@@ -110,7 +110,7 @@ Wybór ogniskowej to fundamentalna decyzja artystyczna, a nie tylko techniczna. 
 
 Istnieje również nierozerwalny związek między ogniskową, odległością od obiektu a głębią ostrości. Te trzy elementy muszą być rozpatrywane łącznie przy planowaniu zdjęcia. Zmiana jednego pociąga za sobą konieczność dostosowania pozostałych, jeśli chcemy osiągnąć określony efekt. Dłuższe ogniskowe generalnie dają mniejszą głębię ostrości, a mniejsza odległość od obiektu również skutkuje mniejszą głębią ostrości. Jeśli fotograf chce uzyskać ten sam kadr (to samo powiększenie obiektu) przy użyciu różnych ogniskowych, musi zmienić swoją odległość od obiektu. Ta zmiana odległości również wpłynie na głębię ostrości. Jednak dominujący efekt na głębię ostrości (przy zachowaniu tego samego kadru) ma zmiana ogniskowej – dłuższe ogniskowe ułatwiają uzyskanie płytszej głębi. Zrozumienie tych współzależności jest kluczowe dla precyzyjnej kontroli nad ostrością i rozmyciem w kadrze.
 
-### Czy ogniskowa na prawdę ma wpływ na głębię ostrości?
+### Czy ogniskowa naprawdę ma wpływ na głębię ostrości?
 
 Sama **ogniskowa f** nie jest niezależnym „suwakiem” głębi ostrości (GO). W równaniu DOF występuje przez **powiększenie m** i średnicę źrenicy wejściowej (d = f/N), więc jej wpływ zależy od tego, **czy zmieniasz tylko ogniskową, czy również odległość do motywu**. Przy *tej samej* odległości dłuższa ogniskowa daje wyższe powiększenie → płytszą GO; przy *tym samym* kadrze (czyli odsunięciu się przy dłuższej ogniskowej) powiększenie wraca do poprzedniej wartości → GO praktycznie się wyrównuje, a wrażenie „płytszego tła” bierze się raczej z większych krążków rozproszenia w obrazie i kompresji perspektywy. Stąd pozorny konflikt zdań – obie strony opisują inne warunki fotografowania.
 
@@ -147,7 +147,7 @@ Aby przy 85 mm uzyskać ten sam kadr, musisz odsunąć się ok. 7 m. Powiększen
 | Różne formaty matryc (crop vs FF)                               | m i c zmieniają się razem z crop-factorem         | Mniejsza matryca wymaga krótszej f do tego samego kąta widzenia → pozornie większa GO przy tych samych ustawieniach |
 | Różne kalkulatory / tabele hiperfokalnej                        | odmienne założenia o CoC i rozdzielczości wydruku | Te same dane wejściowe mogą dać inny wynik, więc dyskusje „kto ma rację” bywają jałowe                                              |
 
-## 4. Wnioski praktyczne
+#### 4. Wnioski praktyczne
 
 * **Chcesz płytszej GO?** Najskuteczniej: otwórz przysłonę, podejdź bliżej lub użyj większej matrycy. Samo „podkręcenie” ogniskowej działa tylko, gdy dystans pozostaje podobny.
 * **Chcesz wszystko ostre?** Przymknij przysłonę i ostrz w pobliżu hiperfokalnej; ogniskowa ma wtórne znaczenie.

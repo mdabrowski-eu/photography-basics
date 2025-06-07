@@ -1,6 +1,6 @@
 ---
-title: "6. Dlaczego światło liczy się w przysłonach (f-stops) i w jaki sposób przelicza się f-stopy dla migawki, czułości, przysłony etc."
-weight: 7
+title: "Dlaczego światło liczy się w przysłonach (f-stops)"
+weight: 70
 ---
 
 

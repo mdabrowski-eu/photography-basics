@@ -1,8 +1,9 @@
 ---
-title: "4.2 Matryca jako materiał światłoczuły – rodzaje i jak działa"
-weight: 5
+title: "Matryca jako materiał światłoczuły"
+weight: 50
 ---
 
+## Matryca jako materiał światłoczuły
 
 ### **Wprowadzenie do matrycy: serce aparatu cyfrowego**
 

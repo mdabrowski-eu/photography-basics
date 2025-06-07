@@ -1,7 +1,9 @@
 ---
-title: "1. Wstęp - Jak jest zbudowany aparat"
-weight: 1
+title: "Jak jest zbudowany aparat"
+weight: 10
 ---
+
+## Wprowadzenie do budowy aparatu fotograficznego
 
 Zrozumienie działania aparatu fotograficznego rozpoczyna się od poznania jego fundamentalnej budowy i zasady, według której światło jest przekształcane w obraz. Choć współczesne aparaty, zarówno cyfrowe, jak i wciąż cenione przez niektórych analogowe, są urządzeniami niezwykle złożonymi, ich korzenie sięgają prostej koncepcji znanej od wieków.
 

@@ -9,69 +9,69 @@ theme = 'hugo-book'
 [menu]
   [[menu.main]]
     identifier = 'wstep-budowa-aparatu'
-    name = '1. Wstęp - Jak jest zbudowany aparat'
+    name = 'Jak zbudowany jest aparat'
     url = '/docs/wstep-budowa-aparatu/'
-    weight = 1
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'camera-obscura'
+    name = 'Jak Działa Camera Obscura'
+    url = '/docs/camera-obscura/'
+    weight = 15
 
   [[menu.main]]
     identifier = 'soczewka'
-    name = '2. Soczewka - W jaki sposób i po co skupia światło, różne ogniskowe i jak wpływają na fotografię'
+    name = '2. Soczewka'
     url = '/docs/soczewka/'
-    weight = 2
+    weight = 20
 
   [[menu.main]]
     identifier = 'migawka'
-    name = '3. Migawka - Po co jest, w jaki sposób jest zbudowana (przede wszystkim migawka kurtynowa, ale opowiedz też jako ciekawostka o innych), jakie mogą wystąpić anomalie związane z pracą migawki'
+    name = '3. Migawka'
     url = '/docs/migawka/'
-    weight = 3
+    weight = 30
 
   [[menu.main]]
     identifier = 'klisza'
     name = '4. Materiał światłoczuły'
     url = '/docs/klisza/'
-    weight = 4
+    weight = 40
 
   [[menu.main]]
     identifier = 'matryca'
-    name = '4.2 Matryca jako materiał światłoczuły – rodzaje i jak działa'
+    name = '5 Matryca jako materiał światłoczuły'
     url = '/docs/matryca/'
-    weight = 5
+    weight = 50
 
   [[menu.main]]
     identifier = 'przyslona'
-    name = '5. Przysłona – jak działa, jak wpływa na obraz, bokeh i głębia ostrości'
+    name = '6. Przysłona'
     url = '/docs/przyslona/'
-    weight = 6
+    weight = 60
 
   [[menu.main]]
     identifier = 'fstops'
-    name = '6. Dlaczego światło liczy się w przysłonach (f-stops) i w jaki sposób przelicza się f-stopy dla migawki, czułości, przysłony etc.'
+    name = '7. Dlaczego światło liczy się w przysłonach (f-stops)'
     url = '/docs/fstops/'
-    weight = 7
+    weight = 70
 
   [[menu.main]]
     identifier = 'winietowanie'
-    name = '7. Z czego wynika winietowanie i jak można mu zapobiec'
+    name = '8. Winietowanie'
     url = '/docs/winietowanie/'
-    weight = 8
+    weight = 80
 
   [[menu.main]]
     identifier = 'dyfrakcja'
-    name = '8. Efekt dyfrakcji przy mocno zamkniętej przysłonie – dlaczego mocno zamknięta przysłona prowadzi do mniej ostrych zdjęć'
+    name = '9. Dyfrakcja'
     url = '/docs/dyfrakcja/'
-    weight = 9
+    weight = 90
 
   [[menu.main]]
     identifier = 'blysk'
-    name = '9. Jak działa światło błyskowe'
+    name = '10. Światło błyskowe'
     url = '/docs/blysk/'
-    weight = 10
-
-  [[menu.main]]
-    identifier = 'camera-obscura'
-    name = 'Jak Działa Camera Obscura: Dogłębne i Intuicyjne Wyjaśnienie'
-    url = '/docs/camera-obscura/'
-    weight = 11
+    weight = 100
 
 [markup]
   defaultMarkdownHandler = 'goldmark'

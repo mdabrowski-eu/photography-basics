@@ -1,6 +1,6 @@
 ---
-title: "4. Materiał światłoczuły"
-weight: 4
+title: "Materiał światłoczuły"
+weight: 40
 ---
 
 

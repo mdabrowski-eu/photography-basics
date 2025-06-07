@@ -3,6 +3,7 @@ title: "9. Jak działa światło błyskowe"
 weight: 10
 ---
 
+## **9. Jak działa światło błyskowe**
 
 Lampa błyskowa jest nieocenionym narzędziem w fotografii, pozwalającym na oświetlenie sceny w warunkach niedostatecznego światła zastanego, zamrożenie ruchu, a także kreatywne modelowanie światła i cienia. Zrozumienie zasady jej działania oraz kluczowych parametrów pozwala na pełne wykorzystanie jej możliwości.
 

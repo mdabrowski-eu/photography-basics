@@ -1,6 +1,6 @@
 ---
-title: "Jak Działa Camera Obscura: Dogłębne i Intuicyjne Wyjaśnienie"
-weight: 11
+title: "Jak Działa Camera Obscura"
+weight: 15
 ---
 
 

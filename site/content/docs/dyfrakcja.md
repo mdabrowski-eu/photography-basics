@@ -1,6 +1,6 @@
 ---
-title: "8. Efekt dyfrakcji przy mocno zamkniętej przysłonie – dlaczego mocno zamknięta przysłona prowadzi do mniej ostrych zdjęć"
-weight: 9
+title: "Dyfrakcja światła w fotografii"
+weight: 90
 ---
 
 

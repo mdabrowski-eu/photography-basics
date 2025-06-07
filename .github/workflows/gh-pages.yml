@@ -16,6 +16,8 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Fetch theme
+        run: git clone --depth 1 https://github.com/alex-shpak/hugo-book.git site/themes/hugo-book
       - name: Build
         run: hugo --minify -s site
       - name: Deploy

@@ -5,11 +5,14 @@ This repository contains a Hugo site based on the **Book** theme. It gathers all
 ## Local development
 
 1. Install [Hugo](https://gohugo.io/) with extended support.
-2. Fetch the Book theme:
+2. Fetch the Book theme (once):
 
 ```bash
-git submodule add https://github.com/alex-shpak/hugo-book.git site/themes/hugo-book
+git clone --depth 1 https://github.com/alex-shpak/hugo-book.git site/themes/hugo-book
 ```
+
+The CI workflow automatically clones the theme during deployment, so you only
+need to run the command above when developing locally.
 
 3. Build the site locally:
 

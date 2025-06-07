@@ -1,4 +1,8 @@
-## **8\. Efekt dyfrakcji przy mocno zamkniętej przysłonie – dlaczego mocno zamknięta przysłona prowadzi do mniej ostrych zdjęć**
+---
+title: "8. Efekt dyfrakcji przy mocno zamkniętej przysłonie – dlaczego mocno zamknięta przysłona prowadzi do mniej ostrych zdjęć"
+weight: 9
+---
+
 
 Jednym z paradoksów w fotografii jest fakt, że choć przymykanie przysłony generalnie zwiększa głębię ostrości i może poprawiać ostrość poprzez redukcję niektórych aberracji optycznych, zbyt mocne jej domknięcie (np. do wartości f/16, f/22, f/32 i mniejszych) prowadzi do zauważalnego spadku ogólnej ostrości obrazu.41 Zjawiskiem odpowiedzialnym za ten efekt jest dyfrakcja światła.
 

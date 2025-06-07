@@ -1,4 +1,8 @@
-## **2\. Soczewka \- W jaki sposób i po co skupia światło, różne ogniskowe i jak wpływają na fotografię**
+---
+title: "2. Soczewka - W jaki sposób i po co skupia światło, różne ogniskowe i jak wpływają na fotografię"
+weight: 2
+---
+
 
 Obiektyw, będący sercem każdego aparatu fotograficznego, to precyzyjny instrument optyczny, którego zadaniem jest zebranie światła z otaczającej sceny i uformowanie z niego ostrego obrazu na powierzchni materiału światłoczułego. Zrozumienie jego działania wymaga zagłębienia się w podstawy optyki i poznania kluczowych parametrów, takich jak ogniskowa.
 

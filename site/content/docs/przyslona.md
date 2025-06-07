@@ -1,4 +1,8 @@
-## **5\. Przysłona – jak działa, jak wpływa na obraz, bokeh i głębia ostrości**
+---
+title: "5. Przysłona – jak działa, jak wpływa na obraz, bokeh i głębia ostrości"
+weight: 6
+---
+
 
 Przysłona jest jednym z kluczowych elementów układu optycznego aparatu fotograficznego, pełniącym rolę analogiczną do źrenicy w ludzkim oku.39 Jej głównym zadaniem jest regulacja ilości światła przechodzącego przez obiektyw i docierającego do matrycy światłoczułej, ale ma ona również fundamentalny wpływ na inne aspekty obrazu, takie jak głębia ostrości i charakter rozmycia tła (bokeh).
 

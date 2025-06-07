@@ -1,8 +1,10 @@
-## **1\. Wstęp \- Jak jest zbudowany aparat**
+---
+title: "1. Wstęp - Jak jest zbudowany aparat"
+weight: 1
+---
 
 Zrozumienie działania aparatu fotograficznego rozpoczyna się od poznania jego fundamentalnej budowy i zasady, według której światło jest przekształcane w obraz. Choć współczesne aparaty, zarówno cyfrowe, jak i wciąż cenione przez niektórych analogowe, są urządzeniami niezwykle złożonymi, ich korzenie sięgają prostej koncepcji znanej od wieków.
 
-### **Ogólny schemat działania aparatu fotograficznego – od camera obscura do współczesności**
 
 Podstawowa zasada działania każdego aparatu fotograficznego, niezależnie od jego zaawansowania technologicznego, wywodzi się bezpośrednio od **camera obscura** (łac. ciemna komnata).1 Jest to proste urządzenie optyczne, w którym światło odbite od zewnętrznych obiektów, przechodząc przez niewielki otwór w jednej ze ścian zaciemnionego pomieszczenia lub pudełka, tworzy na przeciwległej ścianie odwrócony i pomniejszony obraz tych obiektów. Kluczowe jest tu zrozumienie, że mały otwór działa jak selektor promieni świetlnych – przepuszcza jedynie te, które biegną po liniach prostych od konkretnych punktów sceny do odpowiadających im punktów na powierzchni obrazowej, umożliwiając w ten sposób odwzorowanie sceny.1 Ta fundamentalna zasada przechwytywania obrazu za pomocą kontrolowanego przepuszczania światła pozostała niezmienna przez wieki ewolucji fotografii. Aparaty analogowe zastąpiły prosty otwór skomplikowanym systemem soczewek (obiektywem) i dodały mechanizmy kontroli światła, takie jak przysłona i migawka, ale nadal bazowały na chemicznej reakcji materiału światłoczułego na padające fotony.1 Współczesne aparaty cyfrowe, choć zastąpiły kliszę matrycą elektroniczną, wciąż opierają się na tych samych zasadach optycznych – obiektyw skupia światło, przysłona reguluje jego ilość, a migawka (lub jej elektroniczny odpowiednik) kontroluje czas ekspozycji.1 Sedno procesu – zarządzanie światłem w celu zarejestrowania obrazu – jest więc wspólne dla wszystkich tych technologii. Zrozumienie tej ciągłości jest kluczowe, ponieważ podkreśla, że niezależnie od stopnia skomplikowania używanego sprzętu, głęboka znajomość natury światła i podstaw optyki stanowi fundament pracy każdego fotografa.
 

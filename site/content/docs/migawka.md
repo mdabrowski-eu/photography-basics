@@ -1,4 +1,8 @@
-## **3\. Migawka \- Po co jest, w jaki sposób jest zbudowana (przede wszystkim migawka kurtynowa, ale opowiedz też jako ciekawostka o innych), jakie mogą wystąpić anomalie związane z pracą migawki**
+---
+title: "3. Migawka - Po co jest, w jaki sposób jest zbudowana (przede wszystkim migawka kurtynowa, ale opowiedz też jako ciekawostka o innych), jakie mogą wystąpić anomalie związane z pracą migawki"
+weight: 3
+---
+
 
 Migawka jest jednym z fundamentalnych elementów aparatu fotograficznego, pełniącym kluczową rolę w procesie naświetlania. Jej precyzyjne działanie decyduje o tym, jak długo światło będzie oddziaływać na materiał światłoczuły, co ma bezpośredni wpływ na jasność zdjęcia oraz sposób odwzorowania ruchu.
 

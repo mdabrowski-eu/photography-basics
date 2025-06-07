@@ -1,4 +1,4 @@
-baseURL = 'https://example.github.io/photography-basics/'
+baseURL = 'https://mdabrowski-eu.github.io/photography-basics/'
 languageCode = 'pl'
 title = 'Podstawy Fotografii'
 theme = 'hugo-book'

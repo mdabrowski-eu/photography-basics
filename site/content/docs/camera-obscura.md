@@ -3,6 +3,7 @@ title: "Jak Działa Camera Obscura"
 weight: 15
 ---
 
+## Jak Działa Camera Obscura
 
 Camera Obscura, z łaciny "ciemny pokój", to proste urządzenie optyczne, które stanowiło pierwowzór aparatu fotograficznego. Jej działanie opiera się na fundamentalnej właściwości światła i pozwala na rzutowanie rzeczywistego, choć odwróconego, obrazu otoczenia na powierzchnię wewnątrz zaciemnionej przestrzeni. Zrozumienie jej mechanizmu to podróż do samych podstaw optyki.
 
@@ -25,6 +26,8 @@ W ten sposób na wewnętrznej ścianie powstaje obraz, który jest:
 * **Odwrócony góra-dół.**  
 * **Odwrócony prawo-lewo.**  
 * **Rzeczywisty**, co oznacza, że można go fizycznie zobaczyć na ekranie (w przeciwieństwie do obrazu w lustrze, który jest pozorny).
+
+Jeśli wyobrażenie sobie promieni wpadających przez otwór sprawia nam trudność, możemy wyobrazić sobie, że próbujemy zajrzeć do środka pudełka przez mały otwór. Widzimy tylko to, co znajduje się bezpośrednio naprzeciwko otworu, a wszystko inne jest zasłonięte.
 
 ### Rola Otworu: Kompromis Między Ostrością a Jasnością
 
@@ -50,7 +53,7 @@ Camera Obscura była nieocenionym narzędziem dla:
 
 Ostatecznie, gdy w XIX wieku odkryto materiały światłoczułe, które mogły trwale zapisać obraz powstający wewnątrz "ciemnego pokoju", Camera Obscura przekształciła się w aparat fotograficzny, rewolucjonizując sposób, w jaki postrzegamy i dokumentujemy świat.
 
-### 1\. Czym jest Głębia Ostrości w Zwykłym Aparacie?
+### Camera Obscura a Głębia Ostrości
 
 W aparacie z obiektywem (soczewką), **głębia ostrości** to zakres odległości (od bliży do dali), w którym obiekty na zdjęciu wydają się akceptowalnie ostre.
 
@@ -58,7 +61,7 @@ W aparacie z obiektywem (soczewką), **głębia ostrości** to zakres odległoś
 * **Płaszczyzna Ostrości:** W danym momencie tylko jedna, konkretna odległość od aparatu jest idealnie "w ognisku". To jest tzw. płaszczyzna ostrości.  
 * **Rozmycie:** Obiekty znajdujące się przed lub za tą płaszczyzną stają się stopniowo coraz bardziej rozmyte. Dzieje się tak, ponieważ promienie światła z tych nieostrych obiektów nie zbiegają się w punkt na matrycy, ale tworzą tzw. **krążek rozmycia** (ang. *circle of confusion*). Jeśli ten krążek jest wystarczająco mały, nasze oko nadal postrzega go jako punkt i obiekt wydaje się ostry. Głębia ostrości to właśnie ten zakres, gdzie krążki rozmycia są akceptowalnie małe.
 
-### 2\. Dlaczego w Camera Obscura Jest Inaczej? Brak Ogniskowania.
+#### Dlaczego w Camera Obscura Jest Inaczej? Brak Ogniskowania.
 
 Camera Obscura **nie ma soczewki, która by zginała i ogniskowała światło**. Jej jedynym elementem optycznym jest maleńki otwór (*pinhole*).
 
@@ -74,7 +77,7 @@ Skoro każdy obiekt, bez względu na jego odległość, jest rzutowany na ekran 
 
 ---
 
-### 3\. Kompromis: Ostrość a Dyfrakcja
+### Kompromis: Ostrość a Dyfrakcja
 
 Czy to oznacza, że Camera Obscura jest optycznie doskonała? Nie. Jej "nieskończona głębia ostrości" ma swoją cenę.
 

@@ -72,9 +72,9 @@ Poniższa tabela systematyzuje informacje o różnych typach winietowania:
 
 | Cecha | Winietowanie Optyczne/Naturalne | Winietowanie Mechaniczne | Winietowanie Pikselowe/Cyfrowe |
 | :---- | :---- | :---- | :---- |
-| **Główne przyczyny** | Prawo cos⁴θ, ograniczenia konstrukcyjne soczewek (średnica, wewnętrzne przesłanianie) 60 | Fizyczne blokowanie światła przez filtry, osłony przeciwsłoneczne, inne akcesoria 60 | Kątowa czułość pikseli, efektywność mikrosoczewek dla światła padającego pod kątem 60 |
-| **Charakterystyczne objawy** | Płynny spadek jasności od centrum ku brzegom kadru 60 | Często gwałtowne zaciemnienie rogów, czasem z ostrymi krawędziami 60 | Płynny spadek jasności, potęgujący winietowanie optyczne; zależny od konstrukcji matrycy i obiektywu (telecentryczność) 60 |
-| **Wpływ przysłony** | Znacząca redukcja przy przymknięciu 60 | Zwykle niewielki wpływ; może zmienić kształt zaciemnienia | Może być zredukowane przez przymykanie przysłony (zmniejszenie kątów padania światła) |
-| **Metody zapobiegania (fotografowanie)** | Przymykanie przysłony, wybór obiektywu o niskim winietowaniu 60 | Stosowanie cienkich filtrów, unikanie stackowania, używanie dedykowanych osłon 61 | Używanie obiektywów telecentrycznych (jeśli to możliwe i uzasadnione) |
-| **Metody korekcji (postprodukcja)** | Profile obiektywów, manualna korekcja jasności brzegów 61 | Kadrowanie zdjęcia, manualne rozjaśnianie (trudniejsze przy ostrych krawędziach) | Profile obiektywów (często korygowane łącznie z optycznym), manualna korekcja |
+| **Główne przyczyny** | Prawo cos⁴θ, ograniczenia konstrukcyjne soczewek (średnica, wewnętrzne przesłanianie)  | Fizyczne blokowanie światła przez filtry, osłony przeciwsłoneczne, inne akcesoria  | Kątowa czułość pikseli, efektywność mikrosoczewek dla światła padającego pod kątem  |
+| **Charakterystyczne objawy** | Płynny spadek jasności od centrum ku brzegom kadru  | Często gwałtowne zaciemnienie rogów, czasem z ostrymi krawędziami  | Płynny spadek jasności, potęgujący winietowanie optyczne; zależny od konstrukcji matrycy i obiektywu (telecentryczność)  |
+| **Wpływ przysłony** | Znacząca redukcja przy przymknięciu  | Zwykle niewielki wpływ; może zmienić kształt zaciemnienia | Może być zredukowane przez przymykanie przysłony (zmniejszenie kątów padania światła) |
+| **Metody zapobiegania (fotografowanie)** | Przymykanie przysłony, wybór obiektywu o niskim winietowaniu  | Stosowanie cienkich filtrów, unikanie stackowania, używanie dedykowanych osłon  | Używanie obiektywów telecentrycznych (jeśli to możliwe i uzasadnione) |
+| **Metody korekcji (postprodukcja)** | Profile obiektywów, manualna korekcja jasności brzegów  | Kadrowanie zdjęcia, manualne rozjaśnianie (trudniejsze przy ostrych krawędziach) | Profile obiektywów (często korygowane łącznie z optycznym), manualna korekcja |
 

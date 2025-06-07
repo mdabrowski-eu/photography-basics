@@ -26,7 +26,7 @@ Każdy aparat fotograficzny, czy to klasyczny model na kliszę, czy nowoczesna c
 
 Proces tworzenia zdjęcia to harmonijna współpraca wszystkich wymienionych komponentów. Światło odbite od fotografowanej sceny wpada do aparatu przez **obiektyw**. Zespół soczewek w obiektywie skupia te promienie. Wielkość otworu **przysłony**, znajdującej się w obiektywie, decyduje o tym, jak duża część tego światła (jego natężenie) dotrze dalej. Następnie, po naciśnięciu spustu, **migawka** otwiera się na precyzyjnie określony czas, umożliwiając światłu dotarcie do **materiału światłoczułego**. W tym momencie na kliszy lub matrycy powstaje utajony obraz, który w przypadku kliszy wymaga dalszej obróbki chemicznej, a w przypadku matrycy jest przetwarzany elektronicznie na obraz cyfrowy. Fotograf przez cały czas kontroluje kompozycję kadru za pomocą **wizjera** i dba o to, by główny motyw był ostry, korzystając z **systemu ustawiania ostrości**. Każdy z tych elementów odgrywa kluczową rolę, a ich wzajemne ustawienia (czas naświetlania, wartość przysłony, czułość materiału światłoczułego, punkt ostrości) decydują o finalnym wyglądzie fotografii.
 
-### Zwięzłe porównanie budowy aparatu analogowego i cyfrowego
+### Porównanie budowy aparatu analogowego i cyfrowego
 
 Choć fundamentalne zasady optyczne pozostają te same, istnieją kluczowe różnice w budowie aparatów analogowych i cyfrowych, wynikające przede wszystkim z odmiennego sposobu rejestracji i przetwarzania obrazu.
 

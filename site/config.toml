@@ -3,5 +3,75 @@ languageCode = 'pl'
 title = 'Podstawy Fotografii'
 theme = 'hugo-book'
 
+[params]
+  BookSection = 'docs'
+
+[menu]
+  [[menu.main]]
+    identifier = 'wstep-budowa-aparatu'
+    name = '1. Wstęp - Jak jest zbudowany aparat'
+    url = '/docs/wstep-budowa-aparatu/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'soczewka'
+    name = '2. Soczewka - W jaki sposób i po co skupia światło, różne ogniskowe i jak wpływają na fotografię'
+    url = '/docs/soczewka/'
+    weight = 2
+
+  [[menu.main]]
+    identifier = 'migawka'
+    name = '3. Migawka - Po co jest, w jaki sposób jest zbudowana (przede wszystkim migawka kurtynowa, ale opowiedz też jako ciekawostka o innych), jakie mogą wystąpić anomalie związane z pracą migawki'
+    url = '/docs/migawka/'
+    weight = 3
+
+  [[menu.main]]
+    identifier = 'klisza'
+    name = '4. Materiał światłoczuły'
+    url = '/docs/klisza/'
+    weight = 4
+
+  [[menu.main]]
+    identifier = 'matryca'
+    name = '4.2 Matryca jako materiał światłoczuły – rodzaje i jak działa'
+    url = '/docs/matryca/'
+    weight = 5
+
+  [[menu.main]]
+    identifier = 'przyslona'
+    name = '5. Przysłona – jak działa, jak wpływa na obraz, bokeh i głębia ostrości'
+    url = '/docs/przyslona/'
+    weight = 6
+
+  [[menu.main]]
+    identifier = 'fstops'
+    name = '6. Dlaczego światło liczy się w przysłonach (f-stops) i w jaki sposób przelicza się f-stopy dla migawki, czułości, przysłony etc.'
+    url = '/docs/fstops/'
+    weight = 7
+
+  [[menu.main]]
+    identifier = 'winietowanie'
+    name = '7. Z czego wynika winietowanie i jak można mu zapobiec'
+    url = '/docs/winietowanie/'
+    weight = 8
+
+  [[menu.main]]
+    identifier = 'dyfrakcja'
+    name = '8. Efekt dyfrakcji przy mocno zamkniętej przysłonie – dlaczego mocno zamknięta przysłona prowadzi do mniej ostrych zdjęć'
+    url = '/docs/dyfrakcja/'
+    weight = 9
+
+  [[menu.main]]
+    identifier = 'blysk'
+    name = '9. Jak działa światło błyskowe'
+    url = '/docs/blysk/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'camera-obscura'
+    name = 'Jak Działa Camera Obscura: Dogłębne i Intuicyjne Wyjaśnienie'
+    url = '/docs/camera-obscura/'
+    weight = 11
+
 [markup]
   defaultMarkdownHandler = 'goldmark'

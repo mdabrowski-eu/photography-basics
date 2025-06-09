@@ -7,6 +7,8 @@ weight: 15
 
 Camera Obscura, z łaciny "ciemny pokój", to proste urządzenie optyczne, które stanowiło pierwowzór aparatu fotograficznego. Jej działanie opiera się na fundamentalnej właściwości światła i pozwala na rzutowanie rzeczywistego, choć odwróconego, obrazu otoczenia na powierzchnię wewnątrz zaciemnionej przestrzeni. Zrozumienie jej mechanizmu to podróż do samych podstaw optyki.
 
+{{< img src="camera-obscura.jpg" alt="Model camera obscura" >}}
+
 ---
 
 ### Zasada działania: magia prostych linii światła
@@ -50,6 +52,8 @@ Camera Obscura była nieocenionym narzędziem dla:
 * **Astronomów:** Do bezpiecznej obserwacji plam na Słońcu i zaćmień.  
 * **Malarzy:** Wielcy mistrzowie, tacy jak Johannes Vermeer czy Canaletto, prawdopodobnie używali jej do uzyskania idealnej perspektywy i realistycznego oddania detali w swoich dziełach. Obraz rzutowany na płótno można było po prostu odrysować.  
 * **Naukowców i filozofów:** Służyła jako model do zrozumienia działania ludzkiego oka.
+
+{{< img src="camera-obscura-photo.png" alt="Wnętrze camera obscura" >}}
 
 Ostatecznie, gdy w XIX wieku odkryto materiały światłoczułe, które mogły trwale zapisać obraz powstający wewnątrz "ciemnego pokoju", Camera Obscura przekształciła się w aparat fotograficzny, rewolucjonizując sposób, w jaki postrzegamy i dokumentujemy świat.
 

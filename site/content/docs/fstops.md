@@ -18,6 +18,8 @@ Wartość przysłony, powszechnie określana jako liczba f lub f-stop, jest kluc
 
 Standardowy szereg wartości przysłony został tak skonstruowany, aby każda kolejna pełna wartość (stopień) zmieniała ilość przepuszczanego światła dokładnie dwukrotnie.
 
+{{< img src="measure-units.png" alt="Skala przysłon" >}}
+
 **Standardowy szereg f-stopów:** Typowe pełne stopnie przysłony, które można znaleźć na obiektywach lub w ustawieniach aparatu, to: f/1, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32, itd.. Współczesne aparaty cyfrowe pozwalają na bardziej precyzyjną regulację przysłony, zazwyczaj w krokach co 1/2 lub 1/3 stopnia EV (wartości ekspozycji).
 
 ### **Jak zmiana przysłony wpływa na ilość światła? Wyjaśnienie**

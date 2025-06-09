@@ -80,13 +80,13 @@ Poniższa tabela syntetyzuje kluczowe cechy różnych typów migawek, ułatwiaj�
 
 | Cecha | Migawka Szczelinowa (Kurtynowa) | Migawka Centralna (Listkowa/Irysowa) | Migawka Elektroniczna | Migawka Hybrydowa (np. EFCS) |
 | :---- | :---- | :---- | :---- | :---- |
-| **Lokalizacja** | Przed materiałem światłoczułym (w korpusie) 15 | W obiektywie, blisko przysłony 14 | Zintegrowana z matrycą światłoczułą 14 | Połączenie elementów elektronicznych i mechanicznych 14 |
-| **Zasada działania** | Dwie kurtynki/lamelki tworzące szczelinę lub pełne otwarcie 16 | Listki otwierające się od środka na zewnątrz 14 | Elektroniczny odczyt pikseli matrycy 14 | Np. pierwsza kurtyna elektroniczna, druga mechaniczna 17 |
-| **Typowe czasy naświetlania** | Bardzo szeroki zakres, np. 30s do 1/8000s (lub krócej) 14 | Ograniczony, np. 1s do 1/2000s 14 | Bardzo szeroki, np. 30s do 1/32000s (lub krócej) 14 | Zależne od implementacji |
-| **Synchronizacja z lampą** | Ograniczona do X-sync (np. 1/250s), HSS dla krótszych czasów 19 | Przy wszystkich czasach naświetlania | Może być ograniczona, często wolniejsza niż mechaniczna 17 | Zależne od implementacji, często jak mechaniczna druga kurtyna |
-| **Głośność pracy** | Słyszalna (klik) | Cicha 15 | Bezdźwięczna 15 | Cichsza niż w pełni mechaniczna |
-| **Efekt "Rolling Shutter"** | Minimalny lub brak przy czasach X-sync, możliwy przy b. krótkich | Brak | Często występuje (jeśli nie ma global shutter) 17 | Może wystąpić od elektronicznej części |
+| **Lokalizacja** | Przed materiałem światłoczułym (w korpusie)  | W obiektywie, blisko przysłony  | Zintegrowana z matrycą światłoczułą  | Połączenie elementów elektronicznych i mechanicznych  |
+| **Zasada działania** | Dwie kurtynki/lamelki tworzące szczelinę lub pełne otwarcie  | Listki otwierające się od środka na zewnątrz  | Elektroniczny odczyt pikseli matrycy  | Np. pierwsza kurtyna elektroniczna, druga mechaniczna  |
+| **Typowe czasy naświetlania** | Bardzo szeroki zakres, np. 30s do 1/8000s (lub krócej)  | Ograniczony, np. 1s do 1/2000s  | Bardzo szeroki, np. 30s do 1/32000s (lub krócej)  | Zależne od implementacji |
+| **Synchronizacja z lampą** | Ograniczona do X-sync (np. 1/250s), HSS dla krótszych czasów  | Przy wszystkich czasach naświetlania | Może być ograniczona, często wolniejsza niż mechaniczna  | Zależne od implementacji, często jak mechaniczna druga kurtyna |
+| **Głośność pracy** | Słyszalna (klik) | Cicha  | Bezdźwięczna  | Cichsza niż w pełni mechaniczna |
+| **Efekt "Rolling Shutter"** | Minimalny lub brak przy czasach X-sync, możliwy przy b. krótkich | Brak | Często występuje (jeśli nie ma global shutter)  | Może wystąpić od elektronicznej części |
 | **Główne Zalety** | Krótkie czasy naświetlania, stosowana w systemach wymiennej optyki | Doskonała synchronizacja z lampą, cicha praca | Bezdźwięczność, brak drgań, b. krótkie czasy, szybkie serie | Redukcja drgań (shutter shock), cichsza praca |
 | **Główne Wady** | Głośniejsza, ograniczona X-sync, drgania (shutter shock) | Trudniejsze b. krótkie czasy, komplikuje konstrukcję obiektywu | Rolling shutter, potencjalne problemy z migotaniem światła | Potencjalne artefakty przy krótkich czasach i jasnych obiektywach |
-| **Typowe Zastosowania** | Lustrzanki, bezlusterkowce 15 | Aparaty średnioformatowe, niektóre kompakty, obiektywy wielkoformatowe 15 | Bezlusterkowce, smartfony, kamery video 15 | Wiele nowoczesnych bezlusterkowców |
+| **Typowe Zastosowania** | Lustrzanki, bezlusterkowce  | Aparaty średnioformatowe, niektóre kompakty, obiektywy wielkoformatowe  | Bezlusterkowce, smartfony, kamery video  | Wiele nowoczesnych bezlusterkowców |
 
